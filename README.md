@@ -16,3 +16,7 @@
 
 8. add firebase to project
    `npx expo install firebase`
+
+# Preview
+
+![Real Time Chat](Preview.png)
